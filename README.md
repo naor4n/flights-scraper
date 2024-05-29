@@ -1,2 +1,2 @@
 # flights-scraper
-python web scraper for scanning flights ticket prices
+python web scraper for scanning flights ticket prices using selenium 
